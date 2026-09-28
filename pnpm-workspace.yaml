@@ -1,0 +1,3 @@
+# Vite uses esbuild; allow only the version pinned by pnpm-lock.yaml.
+allowBuilds:
+  esbuild@0.25.12: true
